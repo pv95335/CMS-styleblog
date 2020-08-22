@@ -1,0 +1,1 @@
+INSERT INTO authors (auhtorId, posts) values (1, 'Please lets make a post that will show up on the web page. Hopefully it will work.');
